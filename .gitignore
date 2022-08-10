@@ -1,0 +1,4 @@
+ubuntu-in-termux-*.*/ubuntu-fs
+*~
+*.tar.gz
+*.tar.xz
